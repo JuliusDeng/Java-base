@@ -1,0 +1,12 @@
+package com.atguigu.java;
+
+public class ArrayTest {
+	public static void main(String[] args) {
+		
+		int [] ids;
+		ids = new int[] {1,2,3};
+		System.out.println("静态初始化：", ids);
+		
+		
+	}
+}
